@@ -1,0 +1,251 @@
+.color
+{
+    color:#ac0404;
+    
+}
+.active
+{
+    color: #ac0404;
+}
+header
+{
+    background:url(../images/th.jpg);
+    min-height: 600px;
+    min-width: 702px;
+    
+}
+.row.navigation {
+margin-left: 0px;
+margin-right: 0px;
+}
+.navigation
+{
+    
+    background-color: black;
+    position: fixed;
+    top: 0%;
+    min-height: 70px;
+    min-width: 100%;
+    
+}
+#person
+{
+    padding-top: 10px;
+    color: white;
+}
+nav
+{
+    padding-top: 20px;
+}
+.link
+{
+    padding:6px;
+    color: #ffffff;
+    
+}
+.link:hover
+{
+    padding:6px;
+    color: #ac0404;
+    text-decoration: none;
+}
+.helloP
+{
+    margin-top: 200px;
+}
+
+
+.color2:hover
+{
+    background-color:  white;
+    color: rgb(50, 105, 206);
+    border-color: rgb(50, 105, 206);
+}
+#boxes
+{
+    position:fixed;
+    top:150px;
+    left:0px;
+    background-color: rgb(63, 68, 68);
+    min-width: 70px;
+    min-height: 350px;
+}
+.bux
+{
+    color: white;
+    position: fixed;
+    left:0px;
+    top:90px ;
+    background-color: #ac0404;
+    border-color: #ac0404;
+    min-width: 50px;
+    min-height: 50px;
+    
+}
+
+.Myservice
+{
+    background-color: rgb(211, 205, 205);
+    padding-top: 200px;
+    min-height: 800px;
+}
+.ser
+{
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+.serr
+{
+    margin-bottom: 30px;
+}
+.webdesign
+{
+    background-color:white;
+    min-width:250px;
+    height: 250px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    transition-timing-function: ease-out;
+    transition: 0.5s;
+    padding-top: 50px;
+    color: black;
+}
+.webdesign:hover
+{
+    background-color:#ac0404;
+    margin-top: -10px;
+    color: white;
+}
+.title
+{
+    font-size: 22px;
+    font-family:unset;
+    font-weight: bold;
+}
+
+.john
+{
+    background-color: #fdf3f3;
+    padding-top: 20px;
+    color:black;
+    min-height: 600px;
+    
+}
+.john img,.john div,.serr h1,.serr p,.ser div
+{
+    position: static;
+}
+
+.work .row p
+{
+    margin-top: 70px;
+    font-size: medium;
+}
+
+.work .row span
+{
+    font-size:50px
+}
+.im
+{
+   
+    background:url(../images/245078380.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    
+}
+.work
+{
+    background-color: rgb(28, 28, 29);
+    min-height: 350px;
+    color: white;
+    opacity: 100%;
+}
+.contact
+{
+    
+    min-height: 500px;
+    
+}
+
+.contact span
+{
+    margin-top: 50px;
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+}
+.red
+{
+    
+    background-color:#ac0404;
+    display: block;
+    max-width: 50px;
+    min-height: 50px;
+    margin-top: 30px;
+    margin-left: 5px;
+    
+}
+.yellow
+{
+    background-color:#f7fa33;
+    display: block;
+    max-width: 50px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.blue
+{
+    background-color:#110363;
+    display: block;
+    max-width: 50px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.purple
+{
+    background-color:#63033b;
+    display: block;
+    max-width: 50px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.green
+{
+    background-color:#066303;
+    display: block;
+    max-width: 50px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.hello
+{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 160%;
+    margin-left: 50px;
+    
+}
+.hello button ,.color2
+{
+    margin-top: 50px;
+    margin-right: 20px;
+    background-color:  #ac0404;
+    border-color: transparent;
+    border-radius: 5px;
+    min-height: 50px;
+    max-height: 50px;
+    color: white;
+    font-size: medium;
+    min-width: 120px;
+    
+}
+.light
+{
+    font-weight:lighter;
+}
