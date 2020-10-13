@@ -131,10 +131,6 @@ nav
     min-height: 600px;
     
 }
-.john img,.john div,.serr h1,.serr p,.ser div
-{
-    position: static;
-}
 
 .work .row p
 {
@@ -148,10 +144,13 @@ nav
 }
 .im
 {
+    
    
     background:url(../images/245078380.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    min-height: 500px;
+    opacity: 0.3;
 
     
 }
@@ -166,9 +165,77 @@ nav
 {
     
     min-height: 500px;
-    
+    color: black;
+    position: absolute;
+    top: 2450px;
+    left: 200px;
+}
+.contact p
+{
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-size: large;
+}
+.contact input,.comm,textarea
+{
+    background-color: black;
+    border-color: transparent;
+    opacity: 0.5;
+    color: white;
+    border-radius: 5px;
+    width: 300px;
+    min-height: 40px;
+    max-height: 40px;
+    margin-right: 50px;
+    margin-left: -20px;
+    margin-bottom: 20px;
+}
+.contact .comm
+{
+    margin-left: -10px;
 }
 
+.comm2
+{
+    background-color: black;
+    border-color: transparent;
+    opacity: 0.5;
+    color: white;
+    border-radius: 5px;
+    margin-top: -95px;
+    margin-left: 650px;
+    width: 300px;
+}
+.contact textarea
+{
+    min-height: 100px;
+    max-width: 630px;
+    margin-left: -20px;
+    margin-right: 51px;
+}
+.footer
+{
+    min-height: 300px;
+    background-color: black;
+    padding-left: 500px;
+    color: white;
+}
+.footer p
+{
+    margin-left: -13px;
+}
+.footer button
+{
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 60px;
+    height: 40px;
+    border-width: 1px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
 .contact span
 {
     margin-top: 50px;
@@ -248,4 +315,17 @@ nav
 .light
 {
     font-weight:lighter;
+}
+.contact .color2
+{
+    width:630px;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: -20px;
+}
+
+.john img,.john div,.serr h1,.serr p,.ser div ,.work p,.work span,.work button,.im,.contact p,.contact button,.contact span,
+.contact textarea,.contact input
+{
+    position: static;
 }
